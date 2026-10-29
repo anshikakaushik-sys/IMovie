@@ -360,5 +360,3 @@ Phase-wise project documents are in [`docs/project-documentation/`](docs/project
 | 5. Performance testing | [User Acceptance Testing plan](docs/project-documentation/5-performance-testing/The_IMovies_UAT_Plan.docx) |
 
 ---
-
-Maintained by **Shivam Kumar** ([@shivamkumar19-afk](https://github.com/shivamkumar19-afk)).
